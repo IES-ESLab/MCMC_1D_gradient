@@ -1,0 +1,19 @@
+model /home/longhv/Research/Projects/MCMC_FM/FM_vpvs_pertubation_huang14_vpvs_model/FM/data/121.325-24.95_data/mod.121.325-24.95
+para /home/longhv/Research/Projects/MCMC_FM/FM_vpvs_pertubation_huang14_vpvs_model/FM/data/121.325-24.95_data/in.para_121.325-24.95
+disp 1 2 1 /home/longhv/Research/Projects/MCMC_FM/FM_vpvs_pertubation_huang14_vpvs_model/FM/data/121.325-24.95_data/121.325-24.95.ph 3 /home/longhv/Research/Projects/MCMC_FM/FM_vpvs_pertubation_huang14_vpvs_model/FM/data/121.325-24.95_data/121.325-24.95.HV
+rf /home/longhv/Research/Projects/MCMC_FM/FM_vpvs_pertubation_huang14_vpvs_model/FM/data/121.325-24.95_data/121.325-24.95.RF 3.0
+Qmodel /home/longhv/Research/Projects/MCMC_FM/FM_vpvs_pertubation_huang14_vpvs_model/FM/MonteCarlo/indata/Qmodel.dat
+p 0.5
+mono 1
+monol 2
+gradl
+tt 12
+jt 10000
+outdir 121.325-24.95 121.325-24.95 -2
+n_thread 50
+indata /home/longhv/Research/Projects/MCMC_FM/FM_vpvs_pertubation_huang14_vpvs_model/FM/data/121.325-24.95_data/in.data_121.325-24.95
+mc_range 10.0
+dstep 0.5
+plottype 1
+invtype 1.0
+end

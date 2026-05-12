@@ -1,0 +1,7 @@
+/home/longhv/Research/Projects/MCMC_FM/FM_vpvs_pertubation_huang14_vpvs_model/FM/data/121.325-24.95_data/in.connector
+1 0 1 1
+Phase file exist!
+HV file exist!
+RF file exist!
+Use CALmodel/goodmodel function to constrain model behavior
+control file /home/longhv/Research/Projects/MCMC_FM/FM_vpvs_pertubation_huang14_vpvs_model/FM/data/121.325-24.95_data/121.325-24.95.control - ok!
